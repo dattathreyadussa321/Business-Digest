@@ -1,7 +1,5 @@
 # Business Digest
 
-![License](https://img.shields.ioimg.shields.io/badge/build-passing-brightgreen. world drowning in noise, startup founders don't need more information — they need the right insights, at the right moment."*
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
